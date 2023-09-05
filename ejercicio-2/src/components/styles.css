@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(215, 210, 228);
+}
+
+h6{
+    color: rgb(107, 158, 59);
+}
+
+.perrito{
+    margin-inline: 20px;
+}
+.perro{
+    width: 100px;
+    height: 100px;
+    color: rgb(14, 152, 161);
+}
+
+#barra{
+    background-color: rgb(49, 166, 170);
+}
+.card{
+    background-color:  rgb(17, 7, 43);   
+     align-items: center; /* Alineación horizontal centrada */
+    color: aqua;
+}
+#caniche{
+    min-width: 200px;
+    width: 200px;
+  
+}
+#navbar{
+    background-color: rgb(32, 5, 54);
+}
