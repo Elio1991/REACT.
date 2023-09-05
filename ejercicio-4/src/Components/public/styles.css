@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(215, 210, 228);
+}
+html{
+min-height: 100%;
+}
+h6{
+    color: rgb(107, 158, 59);
+}
+
+.Huevo{
+    margin-inline: 20px;
+    animation: rotate 10s linear infinite; /* Aplica la animación constante */
+}
+
+/* Define la animación */
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+#barra{
+    background-color: rgb(49, 166, 170);
+}
+.card{
+    background-color:  rgb(17, 7, 43);   
+     align-items: center; /* Alineación horizontal centrada */
+    color: aqua;
+}
+#EggOscuro{
+    width: 500px; 
+    margin-inline: 20px;
+}
+#EggClaro{
+    width: 500px; 
+    margin-inline: 20px;
+}
+
+
+#navbar{
+    background-color: rgb(32, 5, 54);
+}
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  #Home{
+    color: rgb(60, 219, 81);
+  }
